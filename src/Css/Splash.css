@@ -1,0 +1,10 @@
+.Splash-screen{
+    height:95vh;
+    width: 30%;
+     /* border: 1px solid black;  */
+    margin:auto ;
+    background-color:#FE724C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
